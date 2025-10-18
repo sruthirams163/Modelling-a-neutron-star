@@ -54,7 +54,7 @@ The project is implemented using **Python**, a powerful scientific computing lan
 
 Simulation parameters are fine-tuned to model both **classical** and **relativistic** neutron star structures, enabling a comparison between their radii and total masses.
 
-### Results and Observations
+## Results and Observations
 **Classical Model**: Produces unrealistic neutron star properties, highlighting its limitations at extreme densities.
 
 **Relativistic Model**: Provides accurate results aligning with real astrophysical expectations.
